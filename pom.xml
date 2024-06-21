@@ -45,7 +45,7 @@
 		<name>Maven.org</name>
 		<url>http://repo1.maven.org/maven2</url>
 	    </pluginRepository>
-	</pluginRepositories>
+	
 <plugins>
 	<plugin>
 		 <groupId>org.apache.maven.plugins</groupId>
@@ -57,4 +57,5 @@
 			</configuration>
 	</plugin>
 </plugins>
-</project>
+	</pluginRepositories>
+	</project>

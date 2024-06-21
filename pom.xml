@@ -45,11 +45,5 @@
 		<name>Maven.org</name>
 		<url>http://repo1.maven.org/maven2</url>
 	    </pluginRepository>
-	
-		<configuration>
-			<source>17</source>
-			<target>17</source>
-			</configuration>
-
-	</pluginRepositories>
+</pluginRepositories>
 	</project>
